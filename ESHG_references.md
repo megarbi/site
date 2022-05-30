@@ -1,6 +1,6 @@
-# References for the ESHG poster P26.014.C
+References for the ESHG poster P26.014.C
 
-## Identification of genetic determinants of COVID-19 severity by exome sequencing
+Identification of genetic determinants of COVID-19 severity by exome sequencing
 
 1- Van der Auwera GA & O'Connor BD. (2020). Genomics in the Cloud: Using Docker, GATK, and WDL in Terra (1st Edition). O'Reilly Media.
 
